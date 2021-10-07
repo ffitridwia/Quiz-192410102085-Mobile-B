@@ -1,4 +1,5 @@
 # Fitri's Store
-Nama  : Fitri Dwi Alfina
-NIM   : 192410102085
-Kelas : Pemrograman Mobile B
+
+Fitri Dwi Alfina (192410102085) = https://github.com/ffitridwia
+
+Link : https://github.com/ffitridwia/Quiz-192410102085-Mobile-B/
